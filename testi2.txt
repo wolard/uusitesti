@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-testi
-=======
-toinen
->>>>>>> parent of e96db94... testi2
+branchA
