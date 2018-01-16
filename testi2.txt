@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 toinen kommitti
 kolmas kommitti
+=======
+toinen
+>>>>>>> parent of e96db94... testi2
